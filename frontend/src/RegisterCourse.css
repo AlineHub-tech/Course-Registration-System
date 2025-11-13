@@ -1,0 +1,22 @@
+.register-course {
+  background: #fff;
+  padding: 25px;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  width: 400px;
+  margin: auto;
+}
+
+.register-course h3 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.register-course input {
+  margin-bottom: 15px;
+}
+
+.register-course button {
+  width: 100%;
+}
+

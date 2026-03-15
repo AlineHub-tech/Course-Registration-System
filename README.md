@@ -1,4 +1,5 @@
 
+
  A Full-Stack Course Registration System built with Node.js, Express, MongoDB, and React.js.
 It allows admins to manage students, courses, and their registrations in a modern dashboard.
 The system ensures data integrity, authentication, and smooth user experience.
